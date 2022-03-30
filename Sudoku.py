@@ -27,5 +27,6 @@ for t in range (0,9):
       satır+=1
       if satır==0 or satır==3 or satır==6 or satır==9:
 	      print('-  -  -  -  -  -  -  -  -  -  -  -  -')
+        #dfgdfgdgdgdgdgdf
       
         
